@@ -58,8 +58,20 @@ The script generates an image file (`sea_level_plot.png`) containing the "Rise i
 
 The plot includes:
 -   A scatter plot of "CSIRO Adjusted Sea Level" data from 1880 to 2013.
+
+
+
+<img width="503" height="505" alt="download" src="https://github.com/user-attachments/assets/a4f97806-788e-430c-bb40-504332cfe588" />
+
+
+
+
 -   A red line of best fit predicting sea level up to the year 2050 based on all available data.
+-   <img width="543" height="413" alt="download" src="https://github.com/user-attachments/assets/6b33be7e-1579-48d8-8c7e-1f37eba421d9" />
+
 -   A green line of best fit predicting sea level up to the year 2500 based on data from the year 2000 onwards.
+-   <img width="533" height="546" alt="download" src="https://github.com/user-attachments/assets/b818f0dd-1baf-4c73-8734-da3f8f9fe8a8" />
+
 
 ## Testing
 The repository includes a test suite in `test_module.py` to ensure the plot is generated correctly. The tests verify the plot's title, labels, and the data points for the regression lines.
